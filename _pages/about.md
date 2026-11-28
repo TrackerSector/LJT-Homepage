@@ -62,10 +62,6 @@ Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Ju
 Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
 
 **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023, NeurIPS 2023)  
-Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.  
-_First author._
-
-**Composing Parameter-Efficient Modules with Arithmetic Operations** (2023, NeurIPS 2023)  
 Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He.
 
 ## Contact

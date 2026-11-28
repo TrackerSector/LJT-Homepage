@@ -41,7 +41,7 @@ My research focuses on natural language processing and machine learning. I am in
 
 ## Publications
 
-*First-author papers are marked in bold; **Junteng Liu** indicates his authorship. A full list is also available on the [Publications]({{ "/publications/" | relative_url }}) page and [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).*
+*In each author list **Junteng Liu** marks his authorship, and the three papers on which he is first author are followed by "First author." A full list is also available on the [Publications]({{ "/publications/" | relative_url }}) page and [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).*
 
 **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv)  
 **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.  
@@ -60,6 +60,10 @@ Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Ju
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023, NeurIPS 2023)  
 Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
+
+**Composing Parameter-Efficient Modules with Arithmetic Operations** (2023, NeurIPS 2023)  
+Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.  
+_First author._
 
 **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023, NeurIPS 2023)  
 Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He.

@@ -41,7 +41,7 @@ My research focuses on natural language processing and machine learning. I am in
 
 ## Publications
 
-*First-author papers are marked in bold; **Junteng Liu** indicates his authorship. A full list is also available on the [Publications](/publications/) page and [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).*
+*First-author papers are marked in bold; **Junteng Liu** indicates his authorship. A full list is also available on the [Publications]({{ "/publications/" | relative_url }}) page and [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).*
 
 **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv)  
 **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.  
